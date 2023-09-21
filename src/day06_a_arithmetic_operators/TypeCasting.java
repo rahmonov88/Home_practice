@@ -54,5 +54,8 @@ public class TypeCasting {
         System.out.println(i7);
 
 
+
+
+
     }
 }
