@@ -1,4 +1,4 @@
-package day09_b__if_statements;
+package day09_b_if_statements;
 
 public class IfElseExample {
     /*
@@ -53,7 +53,7 @@ public class IfElseExample {
             System.out.println("Stay at home");
             System.out.println("Study Java");
             System.out.println("When you study put your mask on");
-        } else {
+        }else {
             System.out.println("Party");
             System.out.println("This is not a normal party. It is a Java Party");
             System.out.println("Travel");
