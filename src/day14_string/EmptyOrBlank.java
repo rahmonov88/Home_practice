@@ -22,6 +22,7 @@ public class EmptyOrBlank {
         System.out.println(str.isEmpty());
 
 
+
         str = " ";  //REASSIGNED it to " ";
         System.out.println(str.isEmpty()); // empty space is a CHARACTER. So --- > false
 
